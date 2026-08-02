@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
-  "version": "1.0.13",
+  "version": "1.0.14",
   "prerelease": false,
-  "published_at": "2026-08-01T19:00:27.9867393Z",
+  "published_at": "2026-08-02T04:56:47.6594195Z",
   "changelog": "",
   "platforms": {
     "windows": {
-      "store_url": null,
-      "sha256": "71bc993373a9ff32831793f2d5cba10c2de6b03d6db0e122f78314584917409b",
-      "channel": "github-release",
+      "sha256": "ddb94bcc6ed329d57c2e7e4074acaebea972699da0eeb678f7971954bc95805e",
       "signature": null,
-      "url": "https://github.com/eden36/cc-quota-release/releases/download/v1.0.13/CC-Quota-v1.0.13-setup.exe",
-      "size": 10794064
+      "size": 10825635,
+      "channel": "github-release",
+      "url": "https://github.com/eden36/cc-quota-release/releases/download/v1.0.14/CC-Quota-v1.0.14-setup.exe",
+      "store_url": null
     }
   }
 }
