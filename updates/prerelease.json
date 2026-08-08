@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "version": "1.0.18",
+  "prerelease": true,
+  "published_at": "2026-08-08T02:47:14.7563512Z",
+  "changelog": "",
+  "platforms": {
+    "windows": {
+      "sha256": "0cf8764c5b133b1839e93e66bd45c32008518406bac138921882a95a6648b840",
+      "signature": null,
+      "size": 10885320,
+      "url": "https://github.com/eden36/cc-quota-release/releases/download/v1.0.18/CC-Quota-v1.0.18-setup.exe",
+      "channel": "github-release",
+      "store_url": null
+    }
+  }
+}
